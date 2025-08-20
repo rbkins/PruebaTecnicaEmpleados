@@ -9,19 +9,20 @@ Este proyecto es una aplicación web desarrollada con Next.js y TypeScript que p
 
 ## Instalación
 
-1. **Descomprimir el archivo**
-   - Si recibiste un archivo .zip o .rar, descomprímelo en tu computadora
 
-2. **Instalar dependencias**
+1. **Instalar dependencias**
    ```bash
    # Si usas npm
    npm install
 
    # Si usas pnpm (recomendado)
    pnpm install
+
+   # Tambien para instalar de manera forzada, en caso no funcionen las anteriores
+   npm install --legacy-peer-deps
    ```
 
-3. **Iniciar el servidor de desarrollo**
+2. **Iniciar el servidor de desarrollo**
    ```bash
    # Si usas npm
    npm run dev
@@ -30,7 +31,7 @@ Este proyecto es una aplicación web desarrollada con Next.js y TypeScript que p
    pnpm dev
    ```
 
-4. **Acceder a la aplicación**
+3. **Acceder a la aplicación**
    - Abre tu navegador y visita `http://localhost:3000`
 
 ## Estructura del Proyecto
@@ -102,4 +103,4 @@ Si encuentras algún error durante la instalación:
 ## Contacto
 
 Si tienes alguna pregunta o encuentras algún problema, no dudes en contactarme:
-[Tu correo o información de contacto]
+maganaperazadaniel@gmail.com
